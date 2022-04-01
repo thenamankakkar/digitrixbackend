@@ -1,0 +1,4 @@
+{
+  "mongo_uri": "mongodb+srv://namankakkar:namankakkar@cluster0.8wxvy.gcp.mongodb.net/digitrix?authSource=admin&ssl=true",
+  "port": 4600
+}
